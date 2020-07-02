@@ -1,0 +1,23 @@
+.movie-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.movie-title {
+  color: white;
+  word-wrap: break-word;
+}
+.movie-card-main {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.form-control {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
